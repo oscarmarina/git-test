@@ -1,0 +1,9 @@
+tmp
+.tmp
+node_modules
+bower_components
+dist
+npm-debug.log
+.divshot-cache
+firiebase.json
+*.copy
